@@ -1,3 +1,3 @@
-# 2d_Turbulent_Flow_Over_Airfoil
+# 2D_Turbulent_Flow_Over_Airfoil
 
 This project presents a detailed Computational Fluid Dynamics (CFD) analysis of steady and unsteady two-dimensional turbulent flow over an Eppler E193 airfoil using Altair HyperWorks. The study investigates both fixed and dynamic mesh setups at a Reynolds number of 1.01 × 10⁶, analyzing lift and drag forces, mesh sensitivity, and surface y⁺ effects at multiple angles of attack (0°, 5°, and 10°). For the unsteady case, the airfoil undergoes sinusoidal plunging motion, and simulations leverage the Spalart-Allmaras turbulence model. Mesh optimization, motion setup, and detailed post-processing insights are provided.
